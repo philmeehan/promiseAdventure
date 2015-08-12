@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "q": "^1.4.1"
+    "chai": "^3.2.0",
+    "q": "^1.4.1",
+    "sinon": "^1.15.4",
+    "sinon-as-promised": "^4.0.0"
   }
 }
